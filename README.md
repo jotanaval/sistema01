@@ -1,2 +1,0 @@
-# sistema01
-JSF, JPA, CDi, EJB,PRIMEFACES
